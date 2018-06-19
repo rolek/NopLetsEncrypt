@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Security",
+  "FriendlyName": "Lets Encrypt Support",
+  "SystemName": "RB.Security.LetsEncrypt",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.00" ],
+  "Author": "Roland Baranowski",
+  "DisplayOrder": 1,
+  "FileName": "RB.Plugin.Security.LetsEncrypt.dll",
+  "Description": "This plugin enables LetsEncrypt in NopCommerce"
+}
