@@ -1,2 +1,2 @@
 # NopLetsEncrypt
-Enables support for lets encrypt in NopCommerce
+Enables support for Let's Encrypt in NopCommerce.
